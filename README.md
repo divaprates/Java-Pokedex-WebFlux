@@ -1,4 +1,4 @@
-# PokedexDIO
+# Pokedex WebFlux
 
 ##
 Criado a partir do projeto da DIO:
