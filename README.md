@@ -6,8 +6,6 @@ Construindo um Pokedex com JAVA e Spring Webflux, o módulo reativo do Spring Bo
 
 com a [ananeridev](https://github.com/ananeridev)
 
-##
-
 ### Tecnologias utilizadas:
 
 <div>
